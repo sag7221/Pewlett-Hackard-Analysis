@@ -23,12 +23,13 @@ If you look at tables retirement_titles and mentorship_eligibility
 It gives you information on how many people are retiring by titles.
 For the mentorship_eligibility table, 
 you can get a count of how many mentors are available for which title.
-Queries:<Code>
+Queries:
+```
 SELECT * FROM Mentorship_Eligibility;
 
 SELECT COUNT(emp_no), title FROM Mentorship_Eligibility
 GROUP BY title;
-</Code>
+```
 Below are images for reference
 Image 1: Retiring titles with count
 Image 2: How many mentors are available for each title.
