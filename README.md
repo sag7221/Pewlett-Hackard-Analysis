@@ -30,7 +30,7 @@ SELECT * FROM Mentorship_Eligibility;
 SELECT COUNT(emp_no), title FROM Mentorship_Eligibility
 GROUP BY title;
 ```
-Below are images for reference
+Below are images for reference <br/>
 Image 1: Retiring titles with count<br/>
 ![Number of people retiring by titles](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/retiring_employees_by_titles.png)
 
