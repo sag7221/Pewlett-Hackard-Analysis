@@ -30,3 +30,17 @@ SELECT * FROM unique_titles;
 
 DROP TABLE unique_titles;
 
+--retrieve the number of employees by their most recent job title who are about to retire.
+SELECT DISTINCT title
+FROM unique_titles;
+
+SELECT COUNT(title), title 
+INTO retiring_titles
+FROM unique_titles
+GROUP BY title
+ORDER BY Count(title) DESC;
+
+SELECT * FROM retiring_titles;
+
+
+
