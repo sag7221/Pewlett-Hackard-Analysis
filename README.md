@@ -34,7 +34,7 @@ Below are images for reference
 Image 1: Retiring titles with count<br/>
 ![Number of people retiring by titles](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/retiring_employees_by_titles.png)
 
-<br/>
+
 Image 2: Mentors are available for each title.<br/>
 ![Mentors are available for each title](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.png)
 
