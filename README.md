@@ -24,7 +24,7 @@ It gives you information on how many people are retiring by titles.
 For the mentorship_eligibility table, 
 you can get a count of how many mentors are available for which title.
 Queries:
-```
+```python
 SELECT * FROM Mentorship_Eligibility;
 
 SELECT COUNT(emp_no), title FROM Mentorship_Eligibility
