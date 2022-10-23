@@ -33,6 +33,8 @@ GROUP BY title;
 Below are images for reference
 Image 1: Retiring titles with count
 ![Number of people retiring by titles](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/retiring_employees_by_titles.png)
+
+
 Image 2: Mentors are available for each title.
 ![Mentors are available for each title](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.png)
 
