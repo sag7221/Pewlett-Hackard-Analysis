@@ -32,7 +32,10 @@ GROUP BY title;
 ```
 Below are images for reference
 Image 1: Retiring titles with count
-Image 2: How many mentors are available for each title.
+![Number of people retiring by titles](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/retiring_employees_by_titles.png)
+Image 2: Mentors are available for each title.
+![Mentors are available for each title](https://github.com/sag7221/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.png)
+
 
 For around 25K Senior Engineers retiring, the company needs to hire that many new Senior engineers, but then they have 529 mentors available.
 But then for 24K Senior Staff retiring there are only 147 Senior Staff mentors available. That could be a problem.
